@@ -1,21 +1,11 @@
 # SynapseScalabilitySimulator
-demos of Synapse Scalability features
+Demos of Synapse Scalability features: Resultset Cache and Materialized Views
+
+![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%201.jpg?raw=true)
+
 
 1) Download SQL Query Stress from Microsoft Store
 https://www.microsoft.com/en-us/p/sqlquerystress/9n46qj5sbgkb?activetab=pivot:overviewtab
-
-
-# DataQ Accelerator
-Easily Implemented Big Data Profiling And Data Quality Tool
-
-DataQ accelerator is a notebook based solution to perform data profiling, constraints suggestions and constraints validations on data stored in Azure Data Lake Store Gen2. DataQ accelerator works well with CSV and Parquet file format to perform data quality operations and validations. 
-
-DataQ notebook implements and automates an open source Deequ library. It is spark library under Apache 2.0 license developed by Amazon AWS.
-
-![summary](https://github.com/stevemoss-microsoft/
-SynapseScalabilitySimulator/images/Scalability 1.jpg?raw=true)
-
-![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%201.jpg?raw=true)
 
 
 
