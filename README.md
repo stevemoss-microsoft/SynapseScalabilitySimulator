@@ -12,3 +12,8 @@ https://www.microsoft.com/en-us/p/sqlquerystress/9n46qj5sbgkb?activetab=pivot:ov
 <b>Resultset Cache demo:</b>  follow instructions on word document, using the sql script provided.
 <b>Materialized View demo:</b>  follow instructions on word document, using the sql script provided.
   
+![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%202.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%203.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%204.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%205.jpg?raw=true)
+
