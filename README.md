@@ -15,6 +15,10 @@ DataQ notebook implements and automates an open source Deequ library. It is spar
 ![summary](https://github.com/stevemoss-microsoft/
 SynapseScalabilitySimulator/images/Scalability 1.jpg?raw=true)
 
+![summary](/SynapseScalabilitySimulator/images/Scalability 1.jpg?raw=true)
+
+
+
 There are mainly 2 notebooks created to perform profiling and constraint validation separately:
 
 <b>Data Quality Accelerator,</b> notebook gets the profile information. This notebook also get additional information for numeric data e.g. min, max, mean, stdDev etc. as part of the output. Along with profile information, it also helps to identify the constraints which can be applied to your dataset to improve the quality of data and ensure consistency and reliability. It runs the profile in one pass on your specified dataset and does not repeat for efficient operation.
