@@ -13,7 +13,7 @@ DataQ accelerator is a notebook based solution to perform data profiling, constr
 DataQ notebook implements and automates an open source Deequ library. It is spark library under Apache 2.0 license developed by Amazon AWS.
 
 ![summary](https://github.com/stevemoss-microsoft/
-SynapseScalabilitySimulator/blob/main/images/scalability 1.jpg?raw=true)
+SynapseScalabilitySimulator/blob/main/images/Scalability 1.jpg?raw=true)
 
 There are mainly 2 notebooks created to perform profiling and constraint validation separately:
 
