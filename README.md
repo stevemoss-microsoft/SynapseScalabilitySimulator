@@ -1,4 +1,4 @@
-# SynapseScalabilitySimulator
+# Synapse Scalability Simulator
 Demos of Synapse Scalability features: Resultset Cache and Materialized Views
 
 ![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%201.jpg?raw=true)
