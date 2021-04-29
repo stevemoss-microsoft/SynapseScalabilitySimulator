@@ -15,7 +15,7 @@ DataQ notebook implements and automates an open source Deequ library. It is spar
 ![summary](https://github.com/stevemoss-microsoft/
 SynapseScalabilitySimulator/images/Scalability 1.jpg?raw=true)
 
-![summary](/SynapseScalabilitySimulator/images/Scalability 1.jpg?raw=true)
+![summary]https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%201.jpg?raw=true)
 
 
 
